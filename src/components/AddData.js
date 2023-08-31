@@ -36,7 +36,7 @@ const addJobs = async()=>{
             <div className='inp'>
             <TextField sx={{ width: '50ch' }}
             id="outlined-basic" 
-            label="Name" 
+            label="Company Name" 
             variant="outlined"
             color="secondary"
             value={name}
